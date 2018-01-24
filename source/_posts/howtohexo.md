@@ -57,6 +57,8 @@ deploy:
   [next主题作者的github](https://github.com/iissnan/hexo-theme-next)
   [next主题作者的blog](http://notes.iissnan.com/)
   [next主题的使用文档](http://theme-next.iissnan.com/)
+**hexo markdown语法参考**
+  [Hexo Markdown 简明语法手册](https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C/)
 **提醒自己：**
   用了hexo clean，别忘了把CNAME copy 到publish目录下
   CNAME的内容:
